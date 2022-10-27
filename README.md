@@ -12,11 +12,11 @@ ___________________
 
 Você pode seguir esse implementação por essa matéria aqui no Developer Initiative:
 
-https://deviniciative.wordpress.com/2022/10/17/quantum-vamos-girar-moedas-e-criar-seu-primeiro-hello-world-com-java/
+https://deviniciative.wordpress.com/2022/10/27/quantum-vamos-girar-moedas-e-criar-seu-primeiro-hello-world-com-java/
 
 Ou pelo nosso canal no Youtube:
 
-<aqui vai o link>
+https://youtu.be/RMZeQBtwgM4
 
 ___________________
 
